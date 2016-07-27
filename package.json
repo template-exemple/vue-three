@@ -1,0 +1,23 @@
+{
+  "name": "vue-three",
+  "version": "1.0.0",
+  "description": "A vue and three js template (build with webpack)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/template-exemple/vue-three.git"
+  },
+  "author": "PierreGauthier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/template-exemple/vue-three/issues"
+  },
+  "homepage": "https://github.com/template-exemple/vue-three#readme",
+  "dependencies": {
+    "three": "^0.79.0",
+    "vue": "^1.0.26"
+  }
+}
